@@ -1,0 +1,560 @@
+.h1{
+    background-image: url(imagenes/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-left: 50px;
+    margin-right: 20px;
+    opacity: 0.2;
+}
+
+
+
+body{
+    background-color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:#000000;
+
+    background-image: url(imagenes/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+
+/* divisiones*/
+
+
+.division_0{
+    width: 100%;
+    height: 2px;
+    background: #9b0000;
+}
+
+.division_1{
+    width: 100%;
+    height: 2px;
+    background: #6c0087;
+}
+
+.division_2{
+    width: 100%;
+    height: 2px;
+    background: #ae5700;
+}
+
+.division_3{
+    width: 100%;
+    height: 2px;
+    background: #FFD700;
+}
+
+/* headers*/
+
+
+.h_rojo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+    color:#ff0000;
+    background-color: #000000c7;
+}
+
+.h_morada{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+    color:#cc00ff;
+    background-color: #000000c7;
+}
+
+.h_naranja{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+    color:#ff8000;
+    background-color: #000000c7;
+}
+
+.h_dorada{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+    color:#FFD700;
+    background-color: #000000c7;
+}
+
+/* estructuras*/
+
+
+.fnaflogo{
+    width: 200px;
+    height: 100px;
+    background-color: #000000;
+}
+
+.parrafo_1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    padding: 1% 0 0 1%;
+    border-left: 2px solid #ff0000;
+    
+}
+
+.primer_parrafo_parrafo{
+    background-color: #282828e0;
+    margin: 0 0 0 1%;
+    padding: 1%;
+
+    
+}
+
+.parrafo_2, .parrafo_3{
+    background-color: #282828e0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+    padding: 1%;
+
+    border-left: 2px solid #ff0000;
+
+}
+
+
+.parrafo_4, .parrafo_5{
+    background-color: #282828e0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+    padding: 1%;
+
+    border-left: 2px solid #6c0087;
+
+}
+
+.parrafo_6, .parrafo_8{
+    background-color: #282828e0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+    padding: 1%;
+
+    border-left: 2px solid #ae5700;
+
+}
+
+.parrafo_7{
+    background-color: #282828e0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+    padding: 1%;
+
+    border-left: 2px solid #ae5700;
+    border-top: 5px solid #ae5700;    
+}
+
+.helpygif{
+    width: 100px;
+    height: 100px;
+}
+
+.parrafo_7_0{
+    background-color: #282828e0;
+
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+    padding-top: 1%;
+
+    border-left: 2px solid #ae5700;
+    border-top: 5px solid #ae5700;    
+}
+
+.parrafo_7_1{
+    background-color: #282828e0;
+
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+    padding: 1%;
+
+    border-left: 2px solid #ae5700;
+  
+}
+
+.parrafo_7_interior{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center  ;
+
+    color:#ff8000;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+
+    width: 33%;
+    height: 33%;
+}
+
+.parrafo_7_interior_interior{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+
+    color:#ffffff;
+    font-size: 20px;
+
+    margin: 0 5px;
+    padding: 1%;
+
+    width: 33%;
+    border-left: 3px solid #ff8000;   
+    border-right: 3px solid #ff8000;   
+}
+
+.parrafo_9, .parrafo_10{
+    background-color: #282828e0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+    padding: 1%;
+
+    border-left: 2px solid #FFD700;  
+}
+
+.cuadros{
+    background-color: #282828e0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+    padding: 1%;
+
+    border-left: 2px solid #FFD700;  
+}
+
+.titulos_juego{
+    background-color: #282828e0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color:#FFD700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+
+    padding: 1%;
+    margin: 0 auto;
+    border-left: 2px solid #FFD700;
+    border-top: 2px solid #ff0000;
+}
+
+.fnaf1{
+    width: 200px;
+    height: 200px;
+}
+
+.parrafo_11, .parrafo_12, .parrafo_13, .parrafo_14, .parrafo_15, .parrafo_16, .parrafo_17, .parrafo_19{
+    background-color: #282828e0;   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    padding: 1%;
+    border-left: 2px solid #FFD700;
+}
+
+.parrafo_11_interior {
+    margin: 0 0 0 1%;
+    padding: 1%;
+}
+
+.oficina_base{
+    background-color: #282828e0;   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: justify;
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    padding: 1%;
+    border-left: 2px solid #FFD700;
+}
+
+.oficina_logo{
+    width: 100%;
+    height: 100%;
+}
+
+.phone_guy{
+    width: 150px;
+    height: 150px;
+    margin: 2%;
+}
+
+.los_animatronicos{
+    padding-left: 30%;
+    padding-right: 30%;
+    width: 50%;
+    height: 50%;
+}
+
+.tres_estrellas{
+    padding-left: 1%;
+    width: 600px;
+    height: 200px;
+
+}
+
+.fnaf2{
+    padding-left: 1%;
+    width: 307.2px;
+    height: 230.4px;
+}
+
+.titulos_juego2{
+    background-color: #282828e0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color:#FFD700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+
+    padding: 1%;
+    margin: 0 auto;
+    border-left: 2px solid #FFD700;
+    border-top: 2px solid #ff4000;
+}
+
+.oficina2_logo{
+    width: 100%;
+    height: 100%;
+}
+
+
+.parrafo_18{
+    background-color: #282828e0;
+
+    color:#ffffff;
+    display: flex;
+    font-size: 20px;
+
+    margin: 0 0 0 0;
+    padding: 1%;
+
+    border-left: 2px solid #FFD700;
+  
+}
+
+.parrafo_18_interior_interior{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+
+    color:#ffffff;
+    font-size: 20px;
+
+    margin: 0 5px;
+    padding: 1%;
+
+    width: 33%;  
+}
+
+.lostoys{
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.loswhitered{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.puppet{
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.parrafo_18_interior{
+    max-width: 30%;
+    max-height: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+/* aqui para los mini subrayados */
+
+.william{
+    color:#6c0087;
+}
+
+.chica{
+    color:#fbff00;
+}
+
+.foxy{
+    color:#ff0000;
+}
+
+.bonnie{
+    color:#2735ff;
+}
+
+.golden_freddy{
+    color:#FFD700;
+}
+
+.freddy{
+    color:#a55000;
+}
+
+.phone_guy_color{
+    color: #81ffea;
+}
+
+.clickteam{
+    color: #00ffd5;
+}
+
+.fazbear_ent_color{
+    color: #a55000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.estamostrabajando{
+    background-color: #282828e0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color:#ff0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+
+    padding: 1%;
+    margin: 0 auto;
+}
+
+.WetFloorBotOPRender{
+    width: 15%;
+    height: 15%;
+    margin: 0 100px;
+}
+
+.tamoschambeando{
+    text-align: justify;
+}
