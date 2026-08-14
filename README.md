@@ -1,2 +1,4 @@
 # fnafweb
-repositorio donde se hosteara la fnaf web
+Repositorio donde se hosteara la fnaf web
+
+Creador por Yamil Alexei Courtois Paredes
